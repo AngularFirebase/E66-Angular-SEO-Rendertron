@@ -1,0 +1,10 @@
+{
+    "short_name": "FireStarter",
+    "name": "Angular4 + Firebase Starter App",
+    "start_url": "/",
+    "theme_color": "#f48c5b",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait"
+    /// Add icons in next section
+}

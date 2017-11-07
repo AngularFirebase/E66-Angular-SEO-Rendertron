@@ -1,0 +1,12 @@
+<p>
+    Try to fetch this url as a bot (facebook, twitter, slack, etc) <code>https://instafire-app.firebaseapp.com/firebase-demo</code>
+</p>
+
+<div *ngIf="data$ | async as data">
+
+  <h1>{{ data.title }}</h1>
+  <p>{{ data.description }}</p>
+
+  <img [src]="data.image" width="500px">
+  
+</div>
