@@ -4,9 +4,9 @@
 
 # Episode 66 - SEO with Angular 5 and Rendertron
 
-Watch the [Angular SEO with Rendertron](https://angularfirebase.com/lessons/seo-angular-part-1-rendertron-meta-tags/)
+Watch the video screencast [Angular SEO with Rendertron](https://angularfirebase.com/lessons/seo-angular-part-1-rendertron-meta-tags/).
 
-[Live demo](https://instafire-app.firebaseapp.com/)
+It's real, try the [Live demo](https://instafire-app.firebaseapp.com/)
 
 ## Usage
 
