@@ -5,7 +5,6 @@
 NOTES.md
 functions/node_modules
 server/node_modules
-functions/index.js
 .firebaserc
 server
 
